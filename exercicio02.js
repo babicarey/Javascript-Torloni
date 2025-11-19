@@ -14,15 +14,15 @@ switch (semana) {
         console.log("quinta-feira")
         break;
 
-        case "5":
+    case "5":
         console.log("sexta-feira")
         break;
 
-case "6":
+    case "6":
         console.log("sabado")
         break;
 
-case "7":
+    case "7":
         console.log("domingo")
         break;
 
