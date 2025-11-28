@@ -4,8 +4,12 @@ function exibirTabuadaEscolhida(){
     console.log(`====TABUADA ${tabuadaEscolhida}`);
 
     for (
+        console.log(tabuadaEcolhida + "x" + i + "=" + (tabuadaEscolhida * i));
         let i = 1; i <= 10; i++) {
-            console.log(tabuadaEcolhida + "x" + i + "=" + (tabuadaEscolhida * i));
          }
 }
 exibirTabuadaEscolhida();
+
+function exibirNmoreSolicitado(){
+
+}
