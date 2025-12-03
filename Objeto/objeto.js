@@ -21,7 +21,7 @@ let jonasRibeiro = {
     NIF: 1111112,
     salario: 19.999,
     estado: "SP",
-    dataNasc: new Date ? (1978, 7, 12);
+    dataNasc: new Date(1978, 7, 12),
     hobbies: ["assistir jogo", "fotografar", "bater ponto"],
 
     atribuirNota() { },
