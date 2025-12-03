@@ -15,7 +15,7 @@ elementBtn.addEventListener("click", () => {
     document.body.appendChild(novoElemento);
 //    console.log(document.body.children);
 
-document.body.children[1].removeChild(elementoIdLeandra)]
+document.body.children[1].removeChild(elementoIdLeandra)
    
 
 })
